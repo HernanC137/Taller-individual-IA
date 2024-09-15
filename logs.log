@@ -1,0 +1,758 @@
+2024-09-12 21:24:07,104:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 21:24:07,104:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 21:24:07,104:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 21:24:07,104:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:28:57,059:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:28:57,062:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:28:57,062:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:28:57,063:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:29:02,949:INFO:Initializing predict_model()
+2024-09-12 23:29:02,949:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000028C4FB02A40>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000028C50C9C8B0>)
+2024-09-12 23:29:02,949:INFO:Checking exceptions
+2024-09-12 23:29:02,949:INFO:Preloading libraries
+2024-09-12 23:33:01,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:33:01,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:33:01,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:33:01,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:33:10,831:INFO:Initializing predict_model()
+2024-09-12 23:33:10,831:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001D827901810>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D828A9D5A0>)
+2024-09-12 23:33:10,831:INFO:Checking exceptions
+2024-09-12 23:33:10,831:INFO:Preloading libraries
+2024-09-12 23:35:54,676:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:35:54,676:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:35:54,686:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:35:54,686:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:36:04,317:INFO:Initializing predict_model()
+2024-09-12 23:36:04,317:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002354C421B40>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002354D5BC430>)
+2024-09-12 23:36:04,317:INFO:Checking exceptions
+2024-09-12 23:36:04,317:INFO:Preloading libraries
+2024-09-12 23:43:09,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:43:09,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:43:09,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:43:09,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:45:21,070:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:45:21,070:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:45:21,070:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:45:21,070:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:45:30,792:INFO:Initializing predict_model()
+2024-09-12 23:45:30,792:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001E3B6D8D6C0>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E3B7F2C670>)
+2024-09-12 23:45:30,792:INFO:Checking exceptions
+2024-09-12 23:45:30,792:INFO:Preloading libraries
+2024-09-12 23:49:23,797:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:49:23,797:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:49:23,797:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:49:23,797:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:49:24,463:INFO:Initializing load_model()
+2024-09-12 23:49:24,463:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-12 23:49:39,285:INFO:Initializing load_model()
+2024-09-12 23:49:39,285:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-12 23:49:39,399:INFO:Initializing predict_model()
+2024-09-12 23:49:39,399:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D8BCF78490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D8BD125FC0>)
+2024-09-12 23:49:39,399:INFO:Checking exceptions
+2024-09-12 23:49:39,399:INFO:Preloading libraries
+2024-09-12 23:49:39,410:INFO:Set up data.
+2024-09-12 23:49:39,442:INFO:Set up index.
+2024-09-12 23:51:42,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:51:42,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:51:42,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:51:42,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:51:52,620:INFO:Initializing predict_model()
+2024-09-12 23:51:52,620:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002C5A45CD240>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002C5A476BC70>)
+2024-09-12 23:51:52,620:INFO:Checking exceptions
+2024-09-12 23:51:52,620:INFO:Preloading libraries
+2024-09-12 23:59:37,264:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:59:37,264:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:59:37,264:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:59:37,264:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-12 23:59:47,324:INFO:Initializing predict_model()
+2024-09-12 23:59:47,324:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000014EBADBE1D0>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000014EBAF80CA0>)
+2024-09-12 23:59:47,324:INFO:Checking exceptions
+2024-09-12 23:59:47,324:INFO:Preloading libraries
+2024-09-12 23:59:47,736:INFO:Initializing predict_model()
+2024-09-12 23:59:47,737:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000014EBADBF940>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000014EBB0AA200>)
+2024-09-12 23:59:47,737:INFO:Checking exceptions
+2024-09-12 23:59:47,737:INFO:Preloading libraries
+2024-09-13 00:12:29,544:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:12:29,544:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:12:29,544:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:12:29,544:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:12:35,989:INFO:Initializing predict_model()
+2024-09-13 00:12:35,989:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000022C3B3A3190>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000022C3B604700>)
+2024-09-13 00:12:35,989:INFO:Checking exceptions
+2024-09-13 00:12:35,989:INFO:Preloading libraries
+2024-09-13 00:21:55,689:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:21:55,702:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:21:55,702:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:21:55,702:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:22:02,314:INFO:Initializing predict_model()
+2024-09-13 00:22:02,322:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000018B9594D8A0>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000018B957935B0>)
+2024-09-13 00:22:02,322:INFO:Checking exceptions
+2024-09-13 00:22:02,322:INFO:Preloading libraries
+2024-09-13 00:31:09,424:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:31:09,424:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:31:09,424:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:31:09,424:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:31:10,177:INFO:Initializing load_model()
+2024-09-13 00:31:10,177:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:31:18,772:INFO:Initializing load_model()
+2024-09-13 00:31:18,772:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:32:27,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:32:27,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:32:27,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:32:27,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:32:28,169:INFO:Initializing load_model()
+2024-09-13 00:32:28,169:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:32:37,040:INFO:Initializing load_model()
+2024-09-13 00:32:37,040:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:32:37,156:INFO:Initializing predict_model()
+2024-09-13 00:32:37,156:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000019B80D78EB0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019BDC5DE3B0>)
+2024-09-13 00:32:37,156:INFO:Checking exceptions
+2024-09-13 00:32:37,156:INFO:Preloading libraries
+2024-09-13 00:32:37,163:INFO:Set up data.
+2024-09-13 00:32:37,174:INFO:Set up index.
+2024-09-13 00:34:48,361:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:34:48,361:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:34:48,361:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:34:48,361:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:34:49,117:INFO:Initializing load_model()
+2024-09-13 00:34:49,117:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:34:55,164:INFO:Initializing load_model()
+2024-09-13 00:34:55,164:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:34:55,262:INFO:Initializing predict_model()
+2024-09-13 00:34:55,270:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000022DCC60AE00>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000022DCC79B130>)
+2024-09-13 00:34:55,270:INFO:Checking exceptions
+2024-09-13 00:34:55,270:INFO:Preloading libraries
+2024-09-13 00:34:55,270:INFO:Set up data.
+2024-09-13 00:34:55,279:INFO:Set up index.
+2024-09-13 00:37:10,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:10,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:10,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:10,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:10,736:INFO:Initializing load_model()
+2024-09-13 00:37:10,736:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:37:14,949:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:14,949:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:14,949:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:14,949:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:37:15,418:INFO:Initializing load_model()
+2024-09-13 00:37:15,418:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:37:20,821:INFO:Initializing load_model()
+2024-09-13 00:37:20,821:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:37:20,936:INFO:Initializing predict_model()
+2024-09-13 00:37:20,936:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000134E58FE950>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000134E580ACB0>)
+2024-09-13 00:37:20,936:INFO:Checking exceptions
+2024-09-13 00:37:20,936:INFO:Preloading libraries
+2024-09-13 00:37:20,936:INFO:Set up data.
+2024-09-13 00:37:20,952:INFO:Set up index.
+2024-09-13 00:38:03,644:INFO:Initializing load_model()
+2024-09-13 00:38:03,644:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:38:05,630:INFO:Initializing load_model()
+2024-09-13 00:38:05,630:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:38:19,923:INFO:Initializing load_model()
+2024-09-13 00:38:19,930:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:38:22,121:INFO:Initializing load_model()
+2024-09-13 00:38:22,121:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:38:35,636:INFO:Initializing load_model()
+2024-09-13 00:38:35,644:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:38:56,347:INFO:Initializing load_model()
+2024-09-13 00:38:56,351:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:38:58,257:INFO:Initializing load_model()
+2024-09-13 00:38:58,257:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:39:15,874:INFO:Initializing load_model()
+2024-09-13 00:39:15,874:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:39:19,971:INFO:Initializing load_model()
+2024-09-13 00:39:19,971:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:39:20,049:INFO:Initializing predict_model()
+2024-09-13 00:39:20,055:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000134E58FEB30>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000134E5A8E320>)
+2024-09-13 00:39:20,055:INFO:Checking exceptions
+2024-09-13 00:39:20,055:INFO:Preloading libraries
+2024-09-13 00:39:20,055:INFO:Set up data.
+2024-09-13 00:39:20,072:INFO:Set up index.
+2024-09-13 00:42:07,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:42:07,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:42:07,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:42:07,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-13 00:42:07,531:INFO:Initializing load_model()
+2024-09-13 00:42:07,531:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:42:18,694:INFO:Initializing load_model()
+2024-09-13 00:42:18,694:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:42:25,190:INFO:Initializing load_model()
+2024-09-13 00:42:25,190:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:42:41,932:INFO:Initializing load_model()
+2024-09-13 00:42:41,940:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:42:46,811:INFO:Initializing load_model()
+2024-09-13 00:42:46,813:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:42:48,973:INFO:Initializing load_model()
+2024-09-13 00:42:48,973:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:43:04,652:INFO:Initializing load_model()
+2024-09-13 00:43:04,660:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:43:06,724:INFO:Initializing load_model()
+2024-09-13 00:43:06,725:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:43:15,662:INFO:Initializing load_model()
+2024-09-13 00:43:15,678:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:43:15,979:INFO:Initializing load_model()
+2024-09-13 00:43:15,979:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-13 00:43:16,059:INFO:Initializing predict_model()
+2024-09-13 00:43:16,059:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DE068C70>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261DE2027A0>)
+2024-09-13 00:43:16,059:INFO:Checking exceptions
+2024-09-13 00:43:16,059:INFO:Preloading libraries
+2024-09-13 00:43:16,067:INFO:Set up data.
+2024-09-13 00:43:16,078:INFO:Set up index.
+2024-09-13 15:47:55,881:INFO:Initializing load_model()
+2024-09-13 15:47:55,881:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:28:22,065:INFO:Initializing load_model()
+2024-09-14 19:28:22,065:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:22,083:INFO:Initializing load_model()
+2024-09-14 19:34:22,084:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:22,149:INFO:Initializing predict_model()
+2024-09-14 19:34:22,150:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DE06AFB0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261B992E4D0>)
+2024-09-14 19:34:22,150:INFO:Checking exceptions
+2024-09-14 19:34:22,151:INFO:Preloading libraries
+2024-09-14 19:34:22,153:INFO:Set up data.
+2024-09-14 19:34:22,169:INFO:Set up index.
+2024-09-14 19:34:24,373:INFO:Initializing load_model()
+2024-09-14 19:34:24,373:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:24,579:INFO:Initializing load_model()
+2024-09-14 19:34:24,579:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:31,062:INFO:Initializing load_model()
+2024-09-14 19:34:31,062:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:31,260:INFO:Initializing load_model()
+2024-09-14 19:34:31,261:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:31,309:INFO:Initializing predict_model()
+2024-09-14 19:34:31,309:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DE2E56C0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261B992E4D0>)
+2024-09-14 19:34:31,309:INFO:Checking exceptions
+2024-09-14 19:34:31,309:INFO:Preloading libraries
+2024-09-14 19:34:31,321:INFO:Set up data.
+2024-09-14 19:34:31,329:INFO:Set up index.
+2024-09-14 19:34:43,804:INFO:Initializing load_model()
+2024-09-14 19:34:43,805:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:47,182:INFO:Initializing load_model()
+2024-09-14 19:34:47,183:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:49,230:INFO:Initializing load_model()
+2024-09-14 19:34:49,230:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:50,376:INFO:Initializing load_model()
+2024-09-14 19:34:50,376:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:34:50,427:INFO:Initializing predict_model()
+2024-09-14 19:34:50,427:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DE2E4CD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261B98FA560>)
+2024-09-14 19:34:50,427:INFO:Checking exceptions
+2024-09-14 19:34:50,427:INFO:Preloading libraries
+2024-09-14 19:34:50,427:INFO:Set up data.
+2024-09-14 19:34:50,445:INFO:Set up index.
+2024-09-14 19:34:59,007:INFO:Initializing load_model()
+2024-09-14 19:34:59,008:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:35:00,999:INFO:Initializing load_model()
+2024-09-14 19:35:00,999:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:35:01,052:INFO:Initializing predict_model()
+2024-09-14 19:35:01,052:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DE230160>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261B992E4D0>)
+2024-09-14 19:35:01,052:INFO:Checking exceptions
+2024-09-14 19:35:01,052:INFO:Preloading libraries
+2024-09-14 19:35:01,052:INFO:Set up data.
+2024-09-14 19:35:01,066:INFO:Set up index.
+2024-09-14 19:35:06,218:INFO:Initializing load_model()
+2024-09-14 19:35:06,219:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:35:07,411:INFO:Initializing load_model()
+2024-09-14 19:35:07,411:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:35:07,477:INFO:Initializing predict_model()
+2024-09-14 19:35:07,478:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DE06A650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261B992E680>)
+2024-09-14 19:35:07,479:INFO:Checking exceptions
+2024-09-14 19:35:07,479:INFO:Preloading libraries
+2024-09-14 19:35:07,481:INFO:Set up data.
+2024-09-14 19:35:07,489:INFO:Set up index.
+2024-09-14 19:35:17,025:INFO:Initializing load_model()
+2024-09-14 19:35:17,026:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:35:18,419:INFO:Initializing load_model()
+2024-09-14 19:35:18,419:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 19:35:18,471:INFO:Initializing predict_model()
+2024-09-14 19:35:18,471:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000261DDE82E90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000261B992E4D0>)
+2024-09-14 19:35:18,471:INFO:Checking exceptions
+2024-09-14 19:35:18,471:INFO:Preloading libraries
+2024-09-14 19:35:18,479:INFO:Set up data.
+2024-09-14 19:35:18,487:INFO:Set up index.
+2024-09-14 23:40:42,871:INFO:Initializing load_model()
+2024-09-14 23:40:42,871:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 23:51:21,426:INFO:Initializing load_model()
+2024-09-14 23:51:21,436:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-14 23:58:52,958:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-14 23:58:52,958:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-14 23:58:52,958:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-14 23:58:52,958:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-14 23:58:53,367:INFO:Initializing load_model()
+2024-09-14 23:58:53,367:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:26:11,358:INFO:Initializing load_model()
+2024-09-15 15:26:11,358:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:30:56,923:INFO:Initializing load_model()
+2024-09-15 15:30:56,923:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:30:57,112:INFO:Initializing load_model()
+2024-09-15 15:30:57,112:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:41:17,796:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:41:17,796:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:41:17,796:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:41:17,796:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:41:18,277:INFO:Initializing load_model()
+2024-09-15 15:41:18,277:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:41:23,970:INFO:Initializing load_model()
+2024-09-15 15:41:23,970:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:41:24,051:INFO:Initializing predict_model()
+2024-09-15 15:41:24,051:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000015DD0A7A6B0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015DD0C13130>)
+2024-09-15 15:41:24,051:INFO:Checking exceptions
+2024-09-15 15:41:24,051:INFO:Preloading libraries
+2024-09-15 15:41:24,051:INFO:Set up data.
+2024-09-15 15:41:24,060:INFO:Set up index.
+2024-09-15 15:44:22,841:INFO:Initializing load_model()
+2024-09-15 15:44:22,841:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:44:23,009:INFO:Initializing load_model()
+2024-09-15 15:44:23,009:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:44:24,472:INFO:Initializing load_model()
+2024-09-15 15:44:24,472:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:44:24,518:INFO:Initializing predict_model()
+2024-09-15 15:44:24,518:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000015DD0C66110>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015DD0C11F30>)
+2024-09-15 15:44:24,518:INFO:Checking exceptions
+2024-09-15 15:44:24,518:INFO:Preloading libraries
+2024-09-15 15:44:24,518:INFO:Set up data.
+2024-09-15 15:44:24,527:INFO:Set up index.
+2024-09-15 15:44:53,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:44:53,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:44:53,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:44:53,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:44:53,638:INFO:Initializing load_model()
+2024-09-15 15:44:53,638:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:44:59,920:INFO:Initializing load_model()
+2024-09-15 15:44:59,920:INFO:load_model(model_name=ridge_model, platform=None, authentication=None, verbose=True)
+2024-09-15 15:45:00,004:INFO:Initializing predict_model()
+2024-09-15 15:45:00,004:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000027C4726EDA0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000027C474027A0>)
+2024-09-15 15:45:00,004:INFO:Checking exceptions
+2024-09-15 15:45:00,004:INFO:Preloading libraries
+2024-09-15 15:45:00,004:INFO:Set up data.
+2024-09-15 15:45:00,023:INFO:Set up index.
+2024-09-15 15:46:45,951:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:46:45,951:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:46:45,951:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:46:45,951:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:46:53,787:INFO:Initializing predict_model()
+2024-09-15 15:46:53,787:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002427884E0B0>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000242788071C0>)
+2024-09-15 15:46:53,787:INFO:Checking exceptions
+2024-09-15 15:46:53,787:INFO:Preloading libraries
+2024-09-15 15:48:10,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:48:10,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:48:10,601:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:48:10,616:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 15:48:23,093:INFO:Initializing predict_model()
+2024-09-15 15:48:23,093:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000279DCAF5600>, estimator=['Avg. Session Length' 'Time on App' 'Time on Website'
+ 'Length of Membership'], probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000279DCAAB1C0>)
+2024-09-15 15:48:23,109:INFO:Checking exceptions
+2024-09-15 15:48:23,109:INFO:Preloading libraries
+2024-09-15 16:11:11,973:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:11:11,976:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:11:11,976:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:11:11,976:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:11:21,567:INFO:Initializing predict_model()
+2024-09-15 16:11:21,567:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000023222228D60>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002327D93F9A0>)
+2024-09-15 16:11:21,567:INFO:Checking exceptions
+2024-09-15 16:11:21,567:INFO:Preloading libraries
+2024-09-15 16:11:21,567:INFO:Set up data.
+2024-09-15 16:11:21,580:INFO:Set up index.
+2024-09-15 16:20:47,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:20:47,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:20:47,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:20:47,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-15 16:21:22,642:INFO:Initializing predict_model()
+2024-09-15 16:21:22,642:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002AFFDAB96C0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Avg. Session Length',
+                                             'Time on App', 'Time on Website',
+                                             'Length of Membership'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['dominio', 'Tec'],
+                                    transformer=OneHotEncoder(cols=['dominio',
+                                                                    'Tec'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator', Ridge(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002AFFDA8DC60>)
+2024-09-15 16:21:22,642:INFO:Checking exceptions
+2024-09-15 16:21:22,642:INFO:Preloading libraries
+2024-09-15 16:21:22,644:INFO:Set up data.
+2024-09-15 16:21:22,653:INFO:Set up index.

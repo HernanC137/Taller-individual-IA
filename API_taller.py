@@ -4,10 +4,9 @@ import pickle
 from pycaret.regression import predict_model,load_model
 
 
-#with open('ridge_model.pkl', 'rb') as model_file: #no me sirvio utilizando esta función entonces usa la de pycaret 
-#    modelo = pickle.load(model_file)
+with open('ridge_model.pkl', 'rb') as model_file: 
+    modelo = pickle.load(model_file)
 
-modelo = load_model('ridge_model')
 
 st.title("Taller Ridge")
 
@@ -32,27 +31,28 @@ if st.button("Calcular"):
 
         # Crear el dataframe a partir de los inputs del usuario
         user = pd.DataFrame({
+            'Avg. Session Length': [Avg_Session_Length], 
+            'Time on App': [Time_on_App], 
+            'Time on Website': [Time_on_Website], 
+            'Length of Membership': [Length_of_Membership],
             'Email': [Email], 
             'Address': [address], 
             'dominio': [dominio], 
             'Tec': [tec], 
-            'Avg. Session Length': [Avg_Session_Length], 
-            'Time on App': [Time_on_App], 
-            'Time on Website': [Time_on_Website], 
-            'Length of Membership': [Length_of_Membership],  
             'price': [0]  
         })
 
 
         
-        # Asegúrate de usar solo las características que el modelo espera
-        user_features = user.drop(columns=['price', 'Email'])  # Excluir columnas no necesarias para la predicción
+        #  quita las variables que no sirven
+        data_pred = user.drop(columns=['price', 'Email'])
         
-        # Realizar predicciones utilizando el modelo cargado
-        predictions = predict_model(modelo, data=user_features)
+        
+        predictions = predict_model(modelo, data=data_pred)
         
         # Mostrar predicciones
         st.write(f'Predicción de precio: {predictions["prediction_label"][0]}')
+        
     except ValueError:
         st.error("Por favor, ingrese valores numéricos válidos en los campos correspondientes.")
 
